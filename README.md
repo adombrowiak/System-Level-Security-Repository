@@ -8,11 +8,8 @@ Configuring users and groups for both Windows and Linux environments.
 
 <h2>Tools Utilized</h2>
 
-- <b>Wampserver</b> 
-- <b>Command Prompt</b>
-- <b>Windows Defender Firewall</b>
+- <b>Computer Management</b> 
 - <b>Mate Terminal</b>
-- <b>Notepad++</b>
 
 <h2>Environments Used </h2>
 
